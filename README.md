@@ -73,3 +73,7 @@ Load the dataset.
 Follow the step-by-step cells for cleaning, exploring, and visualizing.
 
 Customize charts to explore more specific relationships.
+
+
+![generated-image (1)](https://github.com/user-attachments/assets/ce594291-73f9-4cb9-a03e-e5b08d26cf88)
+
